@@ -1,7 +1,7 @@
-# Breast Cancer Classification ML Flow
+# BreastCancerClassifier
 
 ## Objective
-The **Breast Cancer Classification** project aims to apply machine learning techniques to classify breast cancer tumors as malignant or benign. By training a model on a breast cancer dataset, the goal is to accurately predict the presence of cancer based on features like tumor size, shape, and texture. This project provides hands-on experience with data preprocessing, feature selection, model training, and performance evaluation in the context of medical diagnostics.
+The **BreastCancerClassifier** project aims to apply machine learning techniques to classify breast cancer tumors as malignant or benign. By training a model on a breast cancer dataset, the goal is to accurately predict the presence of cancer based on features like tumor size, shape, and texture. This project provides hands-on experience with data preprocessing, feature selection, model training, and performance evaluation in the context of medical diagnostics.
 
 ## Skills Learned
 - Proficiency in data preprocessing and feature engineering for machine learning.
