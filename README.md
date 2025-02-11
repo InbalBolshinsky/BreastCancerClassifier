@@ -12,3 +12,8 @@ The project focuses on developing supervised learning models for cancer classifi
 
 ## References
 - [Breast Cancer Dataset - Train and Test sets](https://drive.google.com/drive/folders/1xmdHvW-nqC8fD1rcwlVWpo61xBODbJ8y?usp=drive_link)
+
+## 🤝 Contributors
+Inbal Bolshinsky (@InbalBolshinsky)
+Nicole Davidov (@NicoleDavidov)
+
